@@ -5,7 +5,9 @@
 <img align="right" alt="Busy Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 👨‍💻 All of my projects are available at [https://github.com/saksham5k2/](https://github.com/saksham5k2/)
 
-- 💬 Ask me about **MERN, Website builders, Java Development**
+- 👨‍💻 Check my Trailhead profile at [https://www.salesforce.com/trailblazer/ssharma5k2]
+
+- 💬 Ask me about **MERN, Website builders, Salesforce Development and Java Development**
 
 - 📫 How to reach me **sakshamsharma905@gmail.com**
 
